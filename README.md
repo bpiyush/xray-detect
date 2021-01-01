@@ -1,2 +1,2 @@
 # xray-detect
-Repository for "Chest X-ray Abnormalities Detection" challenge on Kaggle
+Repository for [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/overview) challenge on Kaggle
