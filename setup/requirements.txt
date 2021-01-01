@@ -1,0 +1,14 @@
+jupyter_nbextensions_configurator
+jupyter_http_over_ws
+jupyterlab
+ipdb
+wandb
+opencv-python
+kornia
+imgaug
+pytorch-lightning
+tqdm
+colorama
+seaborn
+natsort
+termcolor
