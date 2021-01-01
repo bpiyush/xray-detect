@@ -2,6 +2,7 @@ jupyter_nbextensions_configurator
 jupyter_http_over_ws
 jupyterlab
 ipdb
+kaggle
 wandb
 opencv-python
 kornia
