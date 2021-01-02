@@ -13,3 +13,6 @@ colorama
 seaborn
 natsort
 termcolor
+pydicom
+bokeh
+scikit-learn
