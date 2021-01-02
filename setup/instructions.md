@@ -35,6 +35,16 @@ conda install pytorch torchvision torchaudio cpuonly -c pytorch
 pip install -r setup/requirements.txt
 ```
 
+#### Installing special libraries
+
+In order for `pydicom` to work as expected, you will need to do the following:
+
+```bash
+pip uninstall PILLOW
+conda install -c conda-forge openjpeg
+pip install PILLOW
+```
+
 #### Check installation
 ```bash
  python -c "import torch; import torchvision; import kornia; import cv2; import numpy"
